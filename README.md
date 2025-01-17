@@ -1,3 +1,5 @@
 # Project Title
-[https://user-images.githubusercontent.com/RaamVijith/react-streaming-app-task/raw/main/src/assets/demo-video.mp4?raw=true
-](https://user-images.githubusercontent.com/RaamVijith/react-streaming-app-task/raw/main/src/assets/demo-video.mp4?raw=true)
+
+
+
+<img width="650px;" src="https://github.com/RaamVijith/react-streaming-app-task/blob/main/src/assets/demo-video.gif"/>
